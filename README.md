@@ -1,2 +1,0 @@
-# DroneRacingMathys
-Exercice Formation
